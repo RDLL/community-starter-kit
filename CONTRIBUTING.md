@@ -1,5 +1,6 @@
 # Contributing to Team Roundup Bot
 
+
 We :heart: contributions from our community! Thank you for taking the time to review this guide and understand how we work. And please remember, all interactions in this repository should adhere to the [code of conduct](code-of-conduct.md).
 
 | :bulb: | :question: | :bug: |
@@ -10,11 +11,11 @@ We :heart: contributions from our community! Thank you for taking the time to re
 
 There are many ways you can help us make this project better. Every repository is different and our goal is to create an app that is flexible enough to help most repositories, while still being easy for new app users to grok. If you would like to help, we use labels to organize the work that needs to be done. Look for the labels that fit your expertise:
 
-- **development-needed**: DESCRIPTION PLACEHOLDER
-- **qa-needed**: DESCRIPTION PLACEHOLDER
-- **documentation-needed**: DESCRIPTION PLACEHOLDER
-- **bug-high-priority**: DESCRIPTION PLACEHOLDER
-- **bug-low-priority**: DESCRIPTION PLACEHOLDER
-- **help-wanted**: DESCRIPTION PLACEHOLDER
+- **development-needed**: Collaborate in the detection and resolution of errors :beetle: Work on the project code :wrench:
+- **qa-needed**: Make suggestions for improvements :wrench:
+- **documentation-needed**: Test the system and know its code :book:
+- **bug-high-priority**: Test and debug the code :microscope:
+- **bug-low-priority**: Test and debug the code :microscope:
+- **help-wanted**: Integrate in the community and help its diffusion :loudspeaker:
 
 You can also help by translating documentation and reviewing open pull requests.
