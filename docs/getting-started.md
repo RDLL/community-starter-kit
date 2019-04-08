@@ -35,4 +35,8 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Great you made your first pull request :sparkles:
+
+Another day, another PR :sun_with_face: :full_mon_with_face:
+
+Yay! There is a new issue here :hearth_eyes:
