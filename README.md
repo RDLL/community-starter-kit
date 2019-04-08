@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+It is a framework that helps you stay motivated to continue making more and better contributions :wrench:
 
 ## What it does
-
-FEATURES PLACEHOLDER
+Personal comments that motivate you :tada:
+Easy to use :ok_hand:
+Made by yourself :muscle:
 
 ## Getting started
 
